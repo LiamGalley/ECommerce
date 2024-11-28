@@ -12,6 +12,11 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Db\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Models\" />
+    <Folder Include="Providers\" />
+    <Folder Include="Profiles\" />
   </ItemGroup>
 
 
