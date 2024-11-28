@@ -20,8 +20,8 @@
     "ECommerce.Api.Orders": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/orders",
-      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "api/orders/1",
+      "applicationUrl": "http://localhost:5002",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
